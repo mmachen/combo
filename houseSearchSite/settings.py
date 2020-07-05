@@ -26,7 +26,7 @@ SECRET_KEY = '&xx67(n123@gt-vc=uf!+u6fe8o8p51t&^dko@&%0u@x2-wcbw'
 DEBUG = True
 
 ALLOWED_HOSTS = ['192.168.0.2',
-                'mmtodolist.herokuapp.com']
+                'desolate-reaches-28995.herokuapp.com']
 
 
 # Application definition
